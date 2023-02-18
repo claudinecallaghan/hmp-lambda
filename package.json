@@ -1,0 +1,22 @@
+{
+  "name": "hmp-lambda",
+  "version": "1.0.0",
+  "description": "A lambda function which will send emails from hmp contact us page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudinecallaghan/hmp-lambda.git"
+  },
+  "author": "Claudine Callaghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudinecallaghan/hmp-lambda/issues"
+  },
+  "homepage": "https://github.com/claudinecallaghan/hmp-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1318.0"
+  }
+}
